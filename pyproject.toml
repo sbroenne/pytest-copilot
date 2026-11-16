@@ -48,7 +48,7 @@ dev = [
     "typeguard>=4.6.0",
 ]
 test = [
-    "syrupy>=6.1.1,<7",
+    "syrupy>=6.1.1,<8",
 ]
 docs = [
     "mkdocs>=1.6.1",
