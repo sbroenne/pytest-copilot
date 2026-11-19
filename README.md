@@ -22,7 +22,7 @@ execution limits, usage, and evidence; it does not grade answers with another AI
 
 ## Quick start
 
-You need Python 3.11+, [uv](https://docs.astral.sh/uv/), and a GitHub account with
+You need Python 3.11.5+, [uv](https://docs.astral.sh/uv/), and a GitHub account with
 Copilot access.
 
 Run these commands in an existing Python project with a `pyproject.toml`:

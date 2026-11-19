@@ -6,7 +6,7 @@ task state. pytest decides whether the checks pass; JSON records the execution.
 
 ## Requirements
 
-Use Python 3.11+, uv, and a GitHub account with Copilot access. The test uses
+Use Python 3.11.5+, uv, and a GitHub account with Copilot access. The test uses
 `gpt-5.6-sol` and may consume premium requests. `pricing.toml` supplies explicit
 rates for estimates; adjust them to your billing basis.
 
