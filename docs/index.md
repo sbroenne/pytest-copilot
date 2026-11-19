@@ -22,7 +22,7 @@ operation output.
 ## Start here
 
 [Getting started](getting-started/index.md) walks through installation, the
-bundled Todo MCP test, and the saved result. You need Python 3.11+, uv, and GitHub
+bundled Todo MCP test, and the saved result. You need Python 3.11.5+, uv, and GitHub
 Copilot access. Live tests may consume premium requests.
 
 ## Find the right guide

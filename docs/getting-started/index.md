@@ -14,7 +14,7 @@ your assertions pass.
 
 ## Install, initialize, and diagnose
 
-In a Python 3.11+ project managed by uv:
+In a Python 3.11.5+ project managed by uv:
 
 ```bash
 uv add pytest-copilot

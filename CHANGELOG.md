@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Changed
+
+- Update dependencies and minimum versions to current stable releases, including
+  the Copilot SDK, Pydantic, pytest-asyncio, Ruff, Syrupy, and MkDocs Material.
+- Refresh the main and historical case-study dependency locks from public PyPI.
+- Update the GitHub dependency review action to 5.0.1.
+- Set the minimum supported Python version to 3.11.5 to use current dependencies
+  without compatibility branches for earlier Python 3.11 patch releases.
+
 ## [2.1.0] - 2026-11-03
 
 ### Added
